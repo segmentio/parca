@@ -5,7 +5,7 @@
   "dependencies": {
     "@parca/client": "^0.12.35",
     "@parca/dynamicsize": "^0.12.35",
-    "@parca/parser": "^0.12.35",
+    "@parca/parser": "^0.16.55",
     "d3-scale": "^4.0.2"
   },
   "main": "src/index.tsx",
