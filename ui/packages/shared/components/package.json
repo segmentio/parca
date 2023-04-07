@@ -11,7 +11,7 @@
     "@heroicons/react": "^1.0.5",
     "@parca/client": "^0.12.35",
     "@parca/dynamicsize": "^0.12.35",
-    "@parca/functions": "^0.12.35",
+    "@parca/functions": "^0.16.67",
     "@parca/icons": "^0.12.35",
     "@parca/parser": "^0.12.35",
     "@parca/profile": "^0.12.36",
