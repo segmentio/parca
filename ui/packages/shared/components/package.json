@@ -14,7 +14,7 @@
     "@parca/functions": "^0.12.35",
     "@parca/icons": "^0.12.35",
     "@parca/parser": "^0.12.35",
-    "@parca/profile": "^0.12.36",
+    "@parca/profile": "^0.16.140",
     "@parca/store": "^0.12.35",
     "@protobuf-ts/grpcweb-transport": "^2.5.0",
     "@types/react-datepicker": "^4.4.0",
