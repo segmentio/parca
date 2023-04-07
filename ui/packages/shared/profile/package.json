@@ -4,7 +4,7 @@
   "description": "Profile viewing libraries",
   "dependencies": {
     "@parca/client": "^0.12.35",
-    "@parca/dynamicsize": "^0.12.35",
+    "@parca/dynamicsize": "^0.16.54",
     "@parca/parser": "^0.12.35",
     "d3-scale": "^4.0.2"
   },
